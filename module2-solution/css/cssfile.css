@@ -16,6 +16,7 @@ section {
     background-color: tan;
     height: 250px;
     overflow: auto;
+    font-style: italic;
 }
 h2 {
     float: right;
