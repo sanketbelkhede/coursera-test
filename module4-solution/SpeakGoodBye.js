@@ -1,7 +1,7 @@
 (function(window) {
 	var greeting = "Good Bye";
 	var byeSpeaker ={};
-	var byeSpeaker = function(name) {
+	byeSpeaker.speak = function(name) {
   		console.log(greeting + " " + name);
 	}
 
