@@ -1,5 +1,6 @@
 (function(window) {
 	var greeting = "Good Bye";
+	var byeSpeaker ={};
 	var byeSpeaker = function(name) {
   		console.log(greeting + " " + name);
 	}
